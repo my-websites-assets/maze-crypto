@@ -1,0 +1,16 @@
+.title {
+  position: relative;
+  font-size: xx-large;
+  top: 8px;
+  color: var(--primary);
+}
+
+.login-btn {
+  width: 25%;
+  position: relative;
+  left: 15px;
+}
+
+.sign-up-btn {
+  margin-top: -9px;
+}
